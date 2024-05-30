@@ -1,0 +1,4 @@
+developer_options.txt,nonar,noupdate
+ghost/master/yaya_variable.cfg,nonar,noupdate
+ghost/master/profile/,nonar,noupdate
+shell/master/profile/,nonar,noupdate

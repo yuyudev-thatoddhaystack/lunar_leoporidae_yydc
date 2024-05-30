@@ -1,0 +1,5 @@
+charset,UTF-8
+type,ghost
+
+name,Lunar Leporidae
+directory,lunar_leporidae_yydc

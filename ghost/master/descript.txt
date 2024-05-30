@@ -1,0 +1,21 @@
+charset,UTF-8
+
+name,Lunar Leporidae
+type,ghost
+
+shiori,yaya.dll
+
+craftman,Vita/yuyudev
+craftmanw,Vita/yuyudev
+craftmanurl,https://thatoddhaystack.neocities.org/ukagaka/
+
+sakura.name,Arneb
+kero.name,None
+
+icon,icon.ico
+
+sstp.allowunspecifiedsend,0
+
+kero.seriko.defaultsurface,999999
+
+balloon,Star Cloud

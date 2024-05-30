@@ -1,0 +1,61 @@
+OnAiTalk
+{
+	if CHAIN.IDName == ""
+	{
+		LastTalk = RandomTalk
+	}
+	else
+	{
+		LastTalk = ChainTalk
+	}
+	LastTalk
+}
+
+RandomTalk : nonoverlap_pool
+{
+    
+    "\0\s[0]You should try the bacon in the cafeteria,\w2 they've started bio-printing it.\w8 We ran out last week,\w2 and the cook forgot to ask one of the resource managers to put it on the list of things we need to restock from Earth.\w8 I think it tastes pretty close to the real deal.\e:chain=bacon"
+    "\0\s[10]Did you bring back coffee from earth this time?\w8 \s[0]They're growing beans in one of the greenhouses,\w2 but they haven't quite got it right yet.\w8 The coffee they make always turns out muddy and bitter,\w2 no matter what I do."
+    "\0\s[10]Hmm,\w2 what's new since you visited us last.\w2.\w2.\w4\s[0] Oh,\w2 Anna's birthday is coming up soon.\w8 Her coworkers in the 3D printing lab are taking in donations for a gift for her,\w2 if you want to chip in.\w8 Of course, if you have a trinket from Earth directly that would be even better."
+    "\0\s[4]I wish it wasn't so expensive to keep a pet here.\w8 I know we have to keep an eye on resources,\w2 but humans on Earth get exceptions for service animals all the time,\w2 right?\w8 Where can I sign up to get one of those?"
+    "\0\s[0]The other night I saw a meteor shower.\w8 No matter how many times I see one,\w2 I'm always amazed.\w2.\w2.\w4\s[6] I think it's nice sometimes to reflect on how cool nature is."
+    "\0\s[0]Do you remember the time that the localized gravity inducer went out during our lunch break?\w8\s[5] That was so funny.\w8 They still haven't cleaned the ketchup stains off the ceiling yet."
+    "\0\s[10]How's my job?\w8\s[0] Business as usual really.\w8 I'm not smart enough to help research in any of the labs,\w2 so I bounce around doing the stuff no one else wants to do.\w8 I mean, you know I don't mind it.\e:chain=job"
+    "\0\s[0]Have you ever climbed the mountains on Earth?\w8 Sure, the Moon has mountains just as tall,\w2 but gravity is vastly different on Earth.\w8 Not to mention,\w2 we don't have any weather here.\w8 I feel like climbing mountains on Earth is a much bigger challenge."
+    "\0\s[8]Being stuck to the moon does get boring.\w2.\w2.\w4\s[0] I hope someday they'll let me go on a mission to Earth like you."
+    "\0\s[0]I know I can get e-books and digital copies of video games and movies beamed from Earth to us,\w2 but sometimes I miss the physicality of a hardcover book or a sleek CD case.\w8\s[6] Bring some stuff back for me next time you go to Earth,\w2 okay?"
+    "\0\s[0]I've started tending to a small part of the greenhouse.\w8 It's housing some of the plants that the researchers deemed a failure,\w2 but keep around in case they can harvest something miniscule of value from them.\w8 Of course,\w2 with my skill I might end up killing the plants before that.\w8\s[6] Still, it gives me something to do that's not just pacing the halls waiting for someone to call on me."
+    "\0\s[0]Rarely,\w2 one of the scientists needs to check on one of the sensors scattered across the moon's surface,\w2 and I'm always called along to come with.\w8 Of course,\w2 it's our policy to travel in pairs when we leave the base,\w2 but for some reason none of the scientists like to leave the base unless they absolutely have to.\w8 And most of the time,\w2 you scouts have either just returned from a mission or are on one,\w2 and I figure it's best to let you guys have some amount of rest."
+    "\0\s[0]I do wonder sometimes why they keep a guy like me around as a ""security guard"" when there's only thirty or so of us on the base at any given time.\w8 Really, the most I've had to do in terms of security is guard my own Earth-grown coffee from the rest of the crew."
+    "\0\s[4]Man,\w2 no matter how much I rinse off my suit,\w2 I always end up tracking moon dust into my room. "
+    "\0\s[0]In the purification lab,\w2 the researchers are working on filtering and processing the water collected from the moon's surface.\w8 Hopefully this means your unit will stop having to lug back jugs and jugs of fresh water every time you take a trip to Earth."
+    "\0\s[0]You have to drive on Earth,\w2 right?\w8 I tried one of the simulations we have for driving and.\w2.\w2.\w4\s[8] lets just say I'd let someone else be the designated driver."
+    "\0\s[0]Have you visited the part of the labs that are dedicated to expanding the base with robotic construction workers?\w8 I'm glad that they're not calling on me to do that level of physical labor.\w8 I'm fine with lifting boxes of specimens and moving around lab equipment.\w2.\w2.\w4\s[8] but I don't think I'm cut out for lifting entire beams. "
+    "\0\s[0]Honestly sometimes I think I should stop reading about Earth activities because then I just get jealous of you all who go to Earth on a regular basis.\w8 Like swimming!\w8 I've never done that,\w2 but it sounds great!\w8 .\w2.\w2.\w2\s[10]Maybe I could convince one of the scientists to add a pool to the next wing of the base.\w8\s[0] I could probably frame it as something scientific."
+    "\0\s[0]There's some mythology humans have about a rabbit in the moon.\w8 If only they knew.\w2.\w2.\w4 It's not just one rabbit,\w2 it's a handful of us!"
+    "\0\s[0]I've read up on constellations that humans have kept track of,\w2 but I think out here there's so many more stars visible than on Earth,\w2 so it makes it difficult to find the ones the books are talking about."
+    "\0\s[0]I wish I got to see Earth more,\w2 at least.\w8 Our base is on the far side,\w2 and there's only a few sensors on the near side of the moon,\w2 so they only rarely need to be checked for whatever data the scientists are collecting."
+    "\0\s[0]It's so mind-boggling to think that a million billion people live on the Earth,\w2 and none of them know we exist.\w8\s[10] Or rather, anyone whose seen us doesn't get taken seriously."
+    "\0\s[0]In my infinite quest to fill my free time,\w2 I've tried crocheting.\w8\s[4] I'm no good at it,\w2 but I really wanted to make a pair of gloves and a hat I could put on my spacesuit so that it would be more personalized.\w2.\w2.\w4 \s[8]Maybe a scarf would be an easier project."
+    "\0\s[0]Our mission on this base is to preserve physical items that humans use and make,\w2 but sometimes I wonder if we should be preserving the culture as well.\w8 Like, the books, music, movies, all that stuff.\w8\s[4] After spending so much time looking at things on the internet,\w2 I worry about it not being backed up anywhere.\w2.\w2.\w4"
+    "\0\s[0]The scientists in the 3D printing lab are something else.\w2 I stuck my head in one time,\w2 and I saw them 3D printing whole steel plates and glass pillars.\w8 I spent a good couple of minutes pestering one of the scientists on if there was anything they couldn't 3D print."
+}
+
+bacon 
+{{CHAIN
+    "\0\s[4]Of course,\w2 it's leagues better than the turkey bacon they tried to feed us that one time.\w8 That stuff tasted like burnt cardboard.\e"
+    "\0\s[7]No,\w2 I haven't actually tasted burnt cardboard.\w8 It was just bad.\w8 You thought it was okay,\w2 but also you barely eat bacon,\w2 so I feel like I can't trust your opinion on that.\e:chain=end"
+}}CHAIN
+
+job
+{{CHAIN
+    "\0\s[0]Really, I have it much easier than all the researchers and scientists in the base.\w8 If I mess up and forget to take the trash out one day,\w2 I can do it the next day no problem.\w8 With their work,\w2 if they mess up they have hours or even days worth of experimentation and simulations they have to re-do.\e"
+    "\0\s[4]I will say though,\w2 it is a pain that all the sctientists seem to view me as a guinea pig.\w8 The folks in the greenhouse ask me to touch plants to see if they've managed to breed out the poison,\w2 and I end up getting a poison ivy rash.\w8 Or worse.\w8\s[8] I was sneezing for a week straight once.\e"
+    "\0\s[7]The guys working in the weather simulation lab are the worst though.\w8 Why would we need to simulate a blizzard?\w8 And why would they need me to walk into their simulation room to test it?\w8\s[4] .\w2.\w2.\w2Don't tell them that though.\w8\s[4] I don't need them finding motivation for new ways to torment me.\w8\s[0] I guess I should be glad to be able to contribute to the scientific work here,\w2 even if I'm not scientifically minded myself.\e:chain=end"
+
+}}CHAIN
+
+water
+{{CHAIN
+    "\0\s[0]It's not even that it gets used up and irreversibly dirtied from regular use,\w2 it's all the experimentation happening in the labs that churns through water.\w8 The resource managers are always butting heads with the scientists,\w2 so I guess they were pressured into finding a solution for a problem they caused. \e:chain=end"
+}}CHAIN
