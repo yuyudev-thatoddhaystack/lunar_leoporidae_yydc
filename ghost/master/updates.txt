@@ -6,7 +6,7 @@ file,ghost/master/emerg.dicc7cb6eacd3262003fef909c382a6fefesize=351date=2023-
 file,ghost/master/icon.ico0267a8a73324059e54f23e8301793395size=318date=2024-05-30T09:44:47
 file,ghost/master/meta.dic2b5b74ccc7d3808709475f1570d927b9size=6010date=2024-05-28T21:33:32
 file,ghost/master/mouse.dicf38b447ff45efa58b9d16b6a4de5752csize=485date=2024-05-28T21:33:55
-file,ghost/master/other.dicc91b7324ffe409bee6c2edcb58b8d926size=5829date=2024-05-30T10:30:04
+file,ghost/master/other.dic7a24e9e2c4e51df107438c998e0aa5b6size=5914date=2024-05-30T12:08:01
 file,ghost/master/sakura_menu.dic11d97357123fe059eb81ff536de0e47dsize=1568date=2024-05-30T08:42:16
 file,ghost/master/yaya.dllfa8bac5d6d7346524317f731dc63803dsize=880640date=2024-02-04T02:07:55
 file,ghost/master/yaya.txt45d37eac05ad71eb2974b8bea756ac4asize=692date=2024-05-28T20:58:51
@@ -22,7 +22,7 @@ file,shell/master/descript.txt3abf8104b26e6ba30fa9b8663f1a3f2asize=568date=20
 file,shell/master/menu_background.png31ac144ce03dbc1c5ae175af7f2d40f6size=592086date=2024-05-30T10:58:59
 file,shell/master/menu_foreground.pngcb5fed65937b445c46c121bfe6dfa645size=592779date=2024-05-30T11:00:16
 file,shell/master/menu_sidebar.png917fa8b123cea5283e0d9c62a91ca4d5size=7994date=2024-05-30T11:12:31
-file,shell/master/readme.txte230505b00a51c6b8e769d44fdd698b8size=127date=2024-05-30T10:44:18
+file,shell/master/readme.txta64fd4916ef7952fe49a38f0f45dd883size=244date=2024-05-30T12:06:31
 file,shell/master/surface0.png14d8ff714010cc94fc4232796b47cc3asize=160906date=2024-05-30T08:33:16
 file,shell/master/surface10.png523c0442503bd2eeb824bd1a0c4be47asize=163478date=2024-05-30T11:25:51
 file,shell/master/surface1000.png4f7165bcc387566d9fe0f12ee688c02csize=5686date=2024-05-30T11:55:34
