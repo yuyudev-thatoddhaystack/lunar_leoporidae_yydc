@@ -14,7 +14,7 @@ surface0
 	
 }
 
-surface.append0,7-8{
+surface.append0,3,7-8{
 	//Blink
 	animation0.interval,random,4
 	animation0.pattern1,overlay,1000,0,0,0
@@ -24,7 +24,7 @@ surface.append0,7-8{
 }
 
 
-surface.append0,4,6-8{
+surface.append0,3-4,6-8{
 
 
 	//Talk

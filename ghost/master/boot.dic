@@ -5,7 +5,7 @@ OnFirstBoot
 	stroke = 0
 	LastTalk = ""
 	
-	"\1\s[-1]\0\s[0]'Sup, %(username).\w8 I thought you had left for Earth already.\w8 Or do you have a longer break this time around?\w8 Well,\w2 since you're here,\w2  if you wanna chat,\w2  none of the scientists are demanding my attention right now.\w8 Meaning I'm free to talk and pester you about Earth some more."
+	"\1\s[-1]\0\s[0]'Sup, %(username).\w8 I thought you had left for Earth already.\w8 Or do you have a longer break this time around?\w8 Well,\w2 since you're here,\w2  if you wanna chat,\w2 none of the scientists are demanding my attention right now.\w8 Meaning I'm free to talk and pester you about Earth some more."
 }
 
 OnInitialize
