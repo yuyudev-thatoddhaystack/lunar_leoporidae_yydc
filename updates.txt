@@ -17,7 +17,7 @@ file,ghost/master/yaya_base/optional.dicff4da728a656a8aa6a38939e654c51f2size=9
 file,ghost/master/yaya_base/shiori3.dicac4750d7081a6607ac1c26184677020asize=55020date=2024-02-04T01:16:24
 file,ghost/master/yaya_emerg.txt9e43b4696366a536ecc69e45d80e392csize=607date=2023-04-14T14:44:19
 file,install.txt0fb3871130e0ad4324559c0c70bf93adsize=81date=2024-05-30T08:34:42
-file,readme.txt0f6a0111d95da8cedb44963f99f55c6asize=623date=2024-05-30T09:42:57
+file,readme.txt6a63873905d3dfece31d7e6de3b67043size=735date=2024-11-08T15:54:02
 file,shell/master/descript.txt3abf8104b26e6ba30fa9b8663f1a3f2asize=568date=2024-05-30T10:05:06
 file,shell/master/menu_background.png31ac144ce03dbc1c5ae175af7f2d40f6size=592086date=2024-05-30T09:58:59
 file,shell/master/menu_foreground.pngcb5fed65937b445c46c121bfe6dfa645size=592779date=2024-05-30T10:00:16

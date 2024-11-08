@@ -7,3 +7,10 @@ I recommend Zi's "Star Cloud" balloon available here: https://ukagaka.zichqec.co
 
 Built on Simplicity Template v1.0.8 https://github.com/Zichqec/simplicity_template
 Using YAYA Tc571-5 https://github.com/yaya-shiori/
+
+v1.0.1 - 11.8.24
+New randomtalk (34)
+Added Spectre plugin compatibility
+
+v1.0 - 5.30.24
+Initial release
