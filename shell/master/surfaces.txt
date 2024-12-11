@@ -54,7 +54,31 @@ surface4
 
 surface5
 {
+	//Blink
+	animation0.interval,random,4
+	animation0.pattern0,overlay,3002,0,0,0
+	animation0.pattern1,overlay,-1,50,0,0
 
+	//Talk
+	animation1.interval,talk,4
+	animation1.pattern0,alternativestart,(2,3,4)
+	
+	animation2.interval,never
+	animation2.pattern0,overlay,3003,0,0,0
+	animation2.pattern1,overlay,3000,100,0,0
+	animation2.pattern2,overlay,3001,100,0,0
+	animation2.pattern3,overlay,-1,100,0,0
+	
+	animation3.interval,never
+	animation3.pattern0,overlay,3003,0,0,0
+	animation3.pattern1,overlay,3001,100,0,0
+	animation3.pattern2,overlay,-1,100,0,0
+	
+	animation4.interval,never
+	animation4.pattern0,overlay,-1,0,0,0
+	animation4.pattern1,overlay,3003,0,0,0
+	animation4.pattern2,overlay,3000,100,0,0
+	animation4.pattern3,overlay,-1,100,0,0
 }
 
 
