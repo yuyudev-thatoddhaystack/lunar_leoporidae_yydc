@@ -18,4 +18,6 @@ sstp.allowunspecifiedsend,0
 
 kero.seriko.defaultsurface,999999
 
+balloon,Moonlight
 balloon,Star Cloud
+

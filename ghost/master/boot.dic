@@ -39,6 +39,7 @@ OnBoot
 	{
 		"\0\s[0]Hey %(username).\w8 Back from another mission?\w8 What'd you find this time?"
 		"\0\s[0]Ah,\w2 taking a break from packing your bags for your next trip to Earth? \w8Sure,\w2 I can chat with you for a bit."
+        "\0\s[10] Oh,\w2 hey %(username).\w8 I'm on break right now,\w2 what's up?"
 	}
 }
 
@@ -46,6 +47,7 @@ OnClose
 {
 	"\0\s[0]I won't keep you too long.\w8 Come by and talk again sometime, okay?"
 	"\0\s[0]Headed off on another adventure?\w8 Don't get into too much trouble on Earth."
+    "\0\s[0]Guess I should get back to work.\w8 Catch you later,\w2 alright?"
 	--
 	"\w8\w8\-" //This is what makes the ghost close (after a short pause), do not remove the \- , and MAKE SURE you don't use a \e before this point or it won't work
 }
