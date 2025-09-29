@@ -56,7 +56,7 @@ surface5
 {
 	//Blink
 	animation0.interval,random,4
-	animation0.pattern0,overlay,3002,0,0,0
+	animation0.pattern0,overlay,3002,100,0,0
 	animation0.pattern1,overlay,-1,50,0,0
 
 	//Talk
