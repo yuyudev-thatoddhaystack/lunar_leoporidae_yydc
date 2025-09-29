@@ -77,11 +77,11 @@ On_sakura.recommendsites
 recommendsites_sakura : array
 {
 	"Vita's Tumblr";			"https://yuyudev.tumblr.com/"
-	"Vita's Twitter";		"https://twitter.com/yuyudev"
-	"Vita's Ko-Fi";		"https://ko-fi.com/thatoddhaystack"	
-    "Vita's Website";    "https://thatoddhaystack.neocities.org/ukagaka/ukagakareleases"
+	"Vita's Twitter";		"https://twitter.com/yuyudev/"
+	"Vita's Ko-Fi";		"https://ko-fi.com/thatoddhaystack/"	
+    "Vita's Website";    "https://thatoddhaystack.neocities.org/ukagaka/ukagakareleases/"
 	"-";"" 
-    "Decomakke's Twitter";		"https://x.com/decomakke"
+    "Decomakke's Twitter";		"https://x.com/decomakke/"
     "Decomakke's Tumblr";       "https://comakke.tumblr.com/"
 }
 
